@@ -1,3 +1,9 @@
+"""
+
+@author: Álvaro Pleguezuelos Escobar
+
+"""
+
 from pyspark import SparkContext
 import sys
 
